@@ -1,0 +1,520 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEV\\NET\\SOLIDPrinciples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87E2B78F-3E39-4702-AF29-49257C906470}|SRP\\SRP.Bad.csproj|d:\\dev\\net\\solidprinciples\\srp\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E2B78F-3E39-4702-AF29-49257C906470}|SRP\\SRP.Bad.csproj|solutionrelative:srp\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E2B78F-3E39-4702-AF29-49257C906470}|SRP\\SRP.Bad.csproj|d:\\dev\\net\\solidprinciples\\srp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E2B78F-3E39-4702-AF29-49257C906470}|SRP\\SRP.Bad.csproj|solutionrelative:srp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E2B78F-3E39-4702-AF29-49257C906470}|SRP\\SRP.Bad.csproj|d:\\dev\\net\\solidprinciples\\srp\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E2B78F-3E39-4702-AF29-49257C906470}|SRP\\SRP.Bad.csproj|solutionrelative:srp\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8CAF096-8A54-495D-B6D0-A7987B5AD8E9}|SOLID.Entities\\SOLID.Entities.csproj|d:\\dev\\net\\solidprinciples\\solid.entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8CAF096-8A54-495D-B6D0-A7987B5AD8E9}|SOLID.Entities\\SOLID.Entities.csproj|solutionrelative:solid.entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB3742-6CEE-4684-BD40-A13535AF8DC3}|SOLID.Data\\SOLID.Data.csproj|d:\\dev\\net\\solidprinciples\\solid.data\\productodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB3742-6CEE-4684-BD40-A13535AF8DC3}|SOLID.Data\\SOLID.Data.csproj|solutionrelative:solid.data\\productodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E2B78F-3E39-4702-AF29-49257C906470}|SRP\\SRP.Bad.csproj|d:\\dev\\net\\solidprinciples\\srp\\transversal\\funcionesgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E2B78F-3E39-4702-AF29-49257C906470}|SRP\\SRP.Bad.csproj|solutionrelative:srp\\transversal\\funcionesgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332951A4-B0BB-41A6-B68E-10879FAA42DA}|SOLID.Transversal\\SOLID.Transversal.csproj|d:\\dev\\net\\solidprinciples\\solid.transversal\\funcionesgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332951A4-B0BB-41A6-B68E-10879FAA42DA}|SOLID.Transversal\\SOLID.Transversal.csproj|solutionrelative:solid.transversal\\funcionesgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BDEE15-88EC-4662-B0CF-31D579FBEA71}|SRP-Bad\\SRP.Good.csproj|d:\\dev\\net\\solidprinciples\\srp-bad\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BDEE15-88EC-4662-B0CF-31D579FBEA71}|SRP-Bad\\SRP.Good.csproj|solutionrelative:srp-bad\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E2B78F-3E39-4702-AF29-49257C906470}|SRP\\SRP.Bad.csproj|d:\\dev\\net\\solidprinciples\\srp\\inventariodatabasequeries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E2B78F-3E39-4702-AF29-49257C906470}|SRP\\SRP.Bad.csproj|solutionrelative:srp\\inventariodatabasequeries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB3742-6CEE-4684-BD40-A13535AF8DC3}|SOLID.Data\\SOLID.Data.csproj|d:\\dev\\net\\solidprinciples\\solid.data\\inventariodatabasequeries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB3742-6CEE-4684-BD40-A13535AF8DC3}|SOLID.Data\\SOLID.Data.csproj|solutionrelative:solid.data\\inventariodatabasequeries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BDEE15-88EC-4662-B0CF-31D579FBEA71}|SRP-Bad\\SRP.Good.csproj|d:\\dev\\net\\solidprinciples\\srp-bad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BDEE15-88EC-4662-B0CF-31D579FBEA71}|SRP-Bad\\SRP.Good.csproj|solutionrelative:srp-bad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155E28EF-C87C-4C66-A2B9-FFCD9B39BB3F}|SOLID.BLogic\\SOLID.BLogic.csproj|d:\\dev\\net\\solidprinciples\\solid.blogic\\productoblogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155E28EF-C87C-4C66-A2B9-FFCD9B39BB3F}|SOLID.BLogic\\SOLID.BLogic.csproj|solutionrelative:solid.blogic\\productoblogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB3742-6CEE-4684-BD40-A13535AF8DC3}|SOLID.Data\\SOLID.Data.csproj|d:\\dev\\net\\solidprinciples\\solid.data\\iproductodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB3742-6CEE-4684-BD40-A13535AF8DC3}|SOLID.Data\\SOLID.Data.csproj|solutionrelative:solid.data\\iproductodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155E28EF-C87C-4C66-A2B9-FFCD9B39BB3F}|SOLID.BLogic\\SOLID.BLogic.csproj|d:\\dev\\net\\solidprinciples\\solid.blogic\\iproductoblogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155E28EF-C87C-4C66-A2B9-FFCD9B39BB3F}|SOLID.BLogic\\SOLID.BLogic.csproj|solutionrelative:solid.blogic\\iproductoblogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB3742-6CEE-4684-BD40-A13535AF8DC3}|SOLID.Data\\SOLID.Data.csproj|d:\\dev\\net\\solidprinciples\\solid.data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB3742-6CEE-4684-BD40-A13535AF8DC3}|SOLID.Data\\SOLID.Data.csproj|solutionrelative:solid.data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E2B78F-3E39-4702-AF29-49257C906470}|SRP\\SRP.Bad.csproj|d:\\dev\\net\\solidprinciples\\srp\\entities\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E2B78F-3E39-4702-AF29-49257C906470}|SRP\\SRP.Bad.csproj|solutionrelative:srp\\entities\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E2B78F-3E39-4702-AF29-49257C906470}|SRP\\SRP.Bad.csproj|d:\\dev\\net\\solidprinciples\\srp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87E2B78F-3E39-4702-AF29-49257C906470}|SRP\\SRP.Bad.csproj|solutionrelative:srp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BDEE15-88EC-4662-B0CF-31D579FBEA71}|SRP-Bad\\SRP.Good.csproj|d:\\dev\\net\\solidprinciples\\srp-bad\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BDEE15-88EC-4662-B0CF-31D579FBEA71}|SRP-Bad\\SRP.Good.csproj|solutionrelative:srp-bad\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8CAF096-8A54-495D-B6D0-A7987B5AD8E9}|SOLID.Entities\\SOLID.Entities.csproj|d:\\dev\\net\\solidprinciples\\solid.entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8CAF096-8A54-495D-B6D0-A7987B5AD8E9}|SOLID.Entities\\SOLID.Entities.csproj|solutionrelative:solid.entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BDEE15-88EC-4662-B0CF-31D579FBEA71}|SRP-Bad\\SRP.Good.csproj|d:\\dev\\net\\solidprinciples\\srp-bad\\inventariodatabasequeries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BDEE15-88EC-4662-B0CF-31D579FBEA71}|SRP-Bad\\SRP.Good.csproj|solutionrelative:srp-bad\\inventariodatabasequeries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155E28EF-C87C-4C66-A2B9-FFCD9B39BB3F}|SOLID.BLogic\\SOLID.BLogic.csproj|d:\\dev\\net\\solidprinciples\\solid.blogic\\userblogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155E28EF-C87C-4C66-A2B9-FFCD9B39BB3F}|SOLID.BLogic\\SOLID.BLogic.csproj|solutionrelative:solid.blogic\\userblogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB3742-6CEE-4684-BD40-A13535AF8DC3}|SOLID.Data\\SOLID.Data.csproj|d:\\dev\\net\\solidprinciples\\solid.data\\iuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB3742-6CEE-4684-BD40-A13535AF8DC3}|SOLID.Data\\SOLID.Data.csproj|solutionrelative:solid.data\\iuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155E28EF-C87C-4C66-A2B9-FFCD9B39BB3F}|SOLID.BLogic\\SOLID.BLogic.csproj|d:\\dev\\net\\solidprinciples\\solid.blogic\\iuserblogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155E28EF-C87C-4C66-A2B9-FFCD9B39BB3F}|SOLID.BLogic\\SOLID.BLogic.csproj|solutionrelative:solid.blogic\\iuserblogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E2B78F-3E39-4702-AF29-49257C906470}|SRP\\SRP.Bad.csproj|d:\\dev\\net\\solidprinciples\\srp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E2B78F-3E39-4702-AF29-49257C906470}|SRP\\SRP.Bad.csproj|solutionrelative:srp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E2B78F-3E39-4702-AF29-49257C906470}|SRP\\SRP.Bad.csproj|d:\\dev\\net\\solidprinciples\\srp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E2B78F-3E39-4702-AF29-49257C906470}|SRP\\SRP.Bad.csproj|solutionrelative:srp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BDEE15-88EC-4662-B0CF-31D579FBEA71}|SRP-Bad\\SRP.Good.csproj|d:\\dev\\net\\solidprinciples\\srp-bad\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8BDEE15-88EC-4662-B0CF-31D579FBEA71}|SRP-Bad\\SRP.Good.csproj|solutionrelative:srp-bad\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BDEE15-88EC-4662-B0CF-31D579FBEA71}|SRP-Bad\\SRP.Good.csproj|d:\\dev\\net\\solidprinciples\\srp-bad\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8BDEE15-88EC-4662-B0CF-31D579FBEA71}|SRP-Bad\\SRP.Good.csproj|solutionrelative:srp-bad\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BDEE15-88EC-4662-B0CF-31D579FBEA71}|SRP-Bad\\SRP.Good.csproj|d:\\dev\\net\\solidprinciples\\srp-bad\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BDEE15-88EC-4662-B0CF-31D579FBEA71}|SRP-Bad\\SRP.Good.csproj|solutionrelative:srp-bad\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BDEE15-88EC-4662-B0CF-31D579FBEA71}|SRP-Bad\\SRP.Good.csproj|d:\\dev\\net\\solidprinciples\\srp-bad\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8BDEE15-88EC-4662-B0CF-31D579FBEA71}|SRP-Bad\\SRP.Good.csproj|solutionrelative:srp-bad\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BDEE15-88EC-4662-B0CF-31D579FBEA71}|SRP-Bad\\SRP.Good.csproj|d:\\dev\\net\\solidprinciples\\srp-bad\\srp-bad.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F8BDEE15-88EC-4662-B0CF-31D579FBEA71}|SRP-Bad\\SRP.Good.csproj|solutionrelative:srp-bad\\srp-bad.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoData.cs",
+              "DocumentMoniker": "D:\\DEV\\NET\\SOLIDPrinciples\\SOLID.Data\\ProductoData.cs",
+              "RelativeDocumentMoniker": "SOLID.Data\\ProductoData.cs",
+              "ToolTip": "D:\\DEV\\NET\\SOLIDPrinciples\\SOLID.Data\\ProductoData.cs",
+              "RelativeToolTip": "SOLID.Data\\ProductoData.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T23:29:24.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProductoData.cs",
+              "DocumentMoniker": "D:\\DEV\\NET\\SOLIDPrinciples\\SOLID.Data\\IProductoData.cs",
+              "RelativeDocumentMoniker": "SOLID.Data\\IProductoData.cs",
+              "ToolTip": "D:\\DEV\\NET\\SOLIDPrinciples\\SOLID.Data\\IProductoData.cs",
+              "RelativeToolTip": "SOLID.Data\\IProductoData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T23:29:13.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "SRP\\Entities\\Producto.cs",
+              "ToolTip": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP\\Entities\\Producto.cs",
+              "RelativeToolTip": "SRP\\Entities\\Producto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T22:57:18.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP\\Entities\\Prestamo.cs",
+              "RelativeDocumentMoniker": "SRP\\Entities\\Prestamo.cs",
+              "ToolTip": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP\\Entities\\Prestamo.cs",
+              "RelativeToolTip": "SRP\\Entities\\Prestamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T19:06:36.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "SRP\\Entities\\User.cs",
+              "ToolTip": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP\\Entities\\User.cs",
+              "RelativeToolTip": "SRP\\Entities\\User.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wCoAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T17:11:38.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP-Bad\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SRP-Bad\\appsettings.Development.json",
+              "ToolTip": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP-Bad\\appsettings.Development.json",
+              "RelativeToolTip": "SRP-Bad\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-20T21:37:37.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InventarioDatabaseQueries.cs",
+              "DocumentMoniker": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP\\InventarioDatabaseQueries.cs",
+              "RelativeDocumentMoniker": "SRP\\InventarioDatabaseQueries.cs",
+              "ToolTip": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP\\InventarioDatabaseQueries.cs",
+              "RelativeToolTip": "SRP\\InventarioDatabaseQueries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T17:26:32.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SRP\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SRP\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T17:11:02.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP-Bad\\Program.cs",
+              "RelativeDocumentMoniker": "SRP-Bad\\Program.cs",
+              "ToolTip": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP-Bad\\Program.cs",
+              "RelativeToolTip": "SRP-Bad\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T02:19:32.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InventarioDatabaseQueries.cs",
+              "DocumentMoniker": "D:\\DEV\\NET\\SOLIDPrinciples\\SOLID.Data\\InventarioDatabaseQueries.cs",
+              "RelativeDocumentMoniker": "SOLID.Data\\InventarioDatabaseQueries.cs",
+              "ToolTip": "D:\\DEV\\NET\\SOLIDPrinciples\\SOLID.Data\\InventarioDatabaseQueries.cs",
+              "RelativeToolTip": "SOLID.Data\\InventarioDatabaseQueries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T22:41:43.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FuncionesGenerales.cs",
+              "DocumentMoniker": "D:\\DEV\\NET\\SOLIDPrinciples\\SOLID.Transversal\\FuncionesGenerales.cs",
+              "RelativeDocumentMoniker": "SOLID.Transversal\\FuncionesGenerales.cs",
+              "ToolTip": "D:\\DEV\\NET\\SOLIDPrinciples\\SOLID.Transversal\\FuncionesGenerales.cs",
+              "RelativeToolTip": "SOLID.Transversal\\FuncionesGenerales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T00:02:11.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\DEV\\NET\\SOLIDPrinciples\\SOLID.Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "SOLID.Entities\\Producto.cs",
+              "ToolTip": "D:\\DEV\\NET\\SOLIDPrinciples\\SOLID.Entities\\Producto.cs",
+              "RelativeToolTip": "SOLID.Entities\\Producto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wBoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T23:53:32.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FuncionesGenerales.cs",
+              "DocumentMoniker": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP\\Transversal\\FuncionesGenerales.cs",
+              "RelativeDocumentMoniker": "SRP\\Transversal\\FuncionesGenerales.cs",
+              "ToolTip": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP\\Transversal\\FuncionesGenerales.cs",
+              "RelativeToolTip": "SRP\\Transversal\\FuncionesGenerales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T00:41:44.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP-Bad\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "SRP-Bad\\Controllers\\ProductoController.cs",
+              "ToolTip": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP-Bad\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "SRP-Bad\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T00:03:46.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductoBLogic.cs",
+              "DocumentMoniker": "D:\\DEV\\NET\\SOLIDPrinciples\\SOLID.BLogic\\IProductoBLogic.cs",
+              "RelativeDocumentMoniker": "SOLID.BLogic\\IProductoBLogic.cs",
+              "ToolTip": "D:\\DEV\\NET\\SOLIDPrinciples\\SOLID.BLogic\\IProductoBLogic.cs",
+              "RelativeToolTip": "SOLID.BLogic\\IProductoBLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T00:05:27.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductoBLogic.cs",
+              "DocumentMoniker": "D:\\DEV\\NET\\SOLIDPrinciples\\SOLID.BLogic\\ProductoBLogic.cs",
+              "RelativeDocumentMoniker": "SOLID.BLogic\\ProductoBLogic.cs",
+              "ToolTip": "D:\\DEV\\NET\\SOLIDPrinciples\\SOLID.BLogic\\ProductoBLogic.cs",
+              "RelativeToolTip": "SOLID.BLogic\\ProductoBLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T00:05:36.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SRP\\appsettings.Development.json",
+              "ToolTip": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP\\appsettings.Development.json",
+              "RelativeToolTip": "SRP\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-22T00:07:00.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "D:\\DEV\\NET\\SOLIDPrinciples\\SOLID.Data\\UserData.cs",
+              "RelativeDocumentMoniker": "SOLID.Data\\UserData.cs",
+              "ToolTip": "D:\\DEV\\NET\\SOLIDPrinciples\\SOLID.Data\\UserData.cs",
+              "RelativeToolTip": "SOLID.Data\\UserData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T22:41:04.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP-Bad\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SRP-Bad\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP-Bad\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SRP-Bad\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T21:48:47.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\DEV\\NET\\SOLIDPrinciples\\SOLID.Entities\\User.cs",
+              "RelativeDocumentMoniker": "SOLID.Entities\\User.cs",
+              "ToolTip": "D:\\DEV\\NET\\SOLIDPrinciples\\SOLID.Entities\\User.cs",
+              "RelativeToolTip": "SOLID.Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T22:25:07.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InventarioDatabaseQueries.cs",
+              "DocumentMoniker": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP-Bad\\InventarioDatabaseQueries.cs",
+              "RelativeDocumentMoniker": "SRP-Bad\\InventarioDatabaseQueries.cs",
+              "ToolTip": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP-Bad\\InventarioDatabaseQueries.cs",
+              "RelativeToolTip": "SRP-Bad\\InventarioDatabaseQueries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T22:35:42.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserBLogic.cs",
+              "DocumentMoniker": "D:\\DEV\\NET\\SOLIDPrinciples\\SOLID.BLogic\\UserBLogic.cs",
+              "RelativeDocumentMoniker": "SOLID.BLogic\\UserBLogic.cs",
+              "ToolTip": "D:\\DEV\\NET\\SOLIDPrinciples\\SOLID.BLogic\\UserBLogic.cs",
+              "RelativeToolTip": "SOLID.BLogic\\UserBLogic.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T22:40:07.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP\\Program.cs",
+              "RelativeDocumentMoniker": "SRP\\Program.cs",
+              "ToolTip": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP\\Program.cs",
+              "RelativeToolTip": "SRP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T16:15:12.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUserData.cs",
+              "DocumentMoniker": "D:\\DEV\\NET\\SOLIDPrinciples\\SOLID.Data\\IUserData.cs",
+              "RelativeDocumentMoniker": "SOLID.Data\\IUserData.cs",
+              "ToolTip": "D:\\DEV\\NET\\SOLIDPrinciples\\SOLID.Data\\IUserData.cs",
+              "RelativeToolTip": "SOLID.Data\\IUserData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T18:02:37.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUserBLogic.cs",
+              "DocumentMoniker": "D:\\DEV\\NET\\SOLIDPrinciples\\SOLID.BLogic\\IUserBLogic.cs",
+              "RelativeDocumentMoniker": "SOLID.BLogic\\IUserBLogic.cs",
+              "ToolTip": "D:\\DEV\\NET\\SOLIDPrinciples\\SOLID.BLogic\\IUserBLogic.cs",
+              "RelativeToolTip": "SOLID.BLogic\\IUserBLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T00:52:27.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SRP\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SRP\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T16:15:03.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP-Bad\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SRP-Bad\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP-Bad\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SRP-Bad\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-20T21:34:41.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP-Bad\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SRP-Bad\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP-Bad\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SRP-Bad\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T21:32:31.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP-Bad\\appsettings.json",
+              "RelativeDocumentMoniker": "SRP-Bad\\appsettings.json",
+              "ToolTip": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP-Bad\\appsettings.json",
+              "RelativeToolTip": "SRP-Bad\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-20T21:32:29.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SRP-Bad.http",
+              "DocumentMoniker": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP-Bad\\SRP-Bad.http",
+              "RelativeDocumentMoniker": "SRP-Bad\\SRP-Bad.http",
+              "ToolTip": "D:\\DEV\\NET\\SOLIDPrinciples\\SRP-Bad\\SRP-Bad.http",
+              "RelativeToolTip": "SRP-Bad\\SRP-Bad.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-02-20T21:32:20.704Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
