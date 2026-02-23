@@ -1,11 +1,13 @@
-## Metodo POST:
+# Api mala:
 
-curl --location 'http://localhost:5254/api/user/prod' \
+## Metodo POST: crear producto
+
+curl --location 'https://localhost:44352/api/producto' \
 --header 'Content-Type: application/json' \
 --data '{
   "Id": 0,
-  "Codigo": "PROD-002",
-  "Nombre": "Arroz Diana x 600g",
+  "Codigo": "PROD-001",
+  "Nombre": "Arroz Diana x 500g",
   "IdTipoProducto": 2,
   "ValorCompra": "2500.00",
   "ValorVenta": "3200.00",
@@ -22,3 +24,22 @@ curl --location 'http://localhost:5254/api/user/prod' \
   "UserUpdated": "jperez",
   "Estado": 1
 }'
+
+## Metodo POST: Crear usuario
+
+curl --location 'https://localhost:44352/api/user' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+  "Name": "pepitoperez",
+  "IdTipoDocumento": 2,
+  "Documento": "32165498",
+  "Nombres": "Pepito",
+  "Apellidos": "Pérez Oviedo",
+  "Email": "pepito.perez@email.com",
+  "Password": "Passw0rd123!"
+}'
+
+## Metodo GET: listar usuarios
+
+curl --location 'https://localhost:44352/api/User'
+
