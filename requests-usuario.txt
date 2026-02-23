@@ -1,0 +1,28 @@
+## Metodo GET:
+
+curl --location 'http://localhost:5254/api/user'
+
+## Metodo POST:
+
+curl --location 'http://localhost:5254/api/user/prod' \
+--header 'Content-Type: application/json' \
+--data '{
+  "Id": 0,
+  "Codigo": "PROD-002",
+  "Nombre": "Arroz Diana x 600g",
+  "IdTipoProducto": 2,
+  "ValorCompra": "2500.00",
+  "ValorVenta": "3200.00",
+  "Iva": 0.00,
+  "Imagen": null,
+  "IdUnidadMedidaBase": 1,
+  "IdUnidadMedidaCompra": 3,
+  "IdUnidadMedidaVenta": 1,
+  "CantEquivalente": 12.00,
+  "CodigoBarras": "7702036010015",
+  "ProveedorId": 5,
+  "CreatedAt": "2024-06-15T10:30:00",
+  "UserCreated": "admin",
+  "UserUpdated": "jperez",
+  "Estado": 1
+}'
