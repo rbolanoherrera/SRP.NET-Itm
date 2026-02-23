@@ -1,28 +1,41 @@
-## Metodo GET:
+# Api mala
+
+## Metodo GET: obtener listado de usuarios
 
 curl --location 'http://localhost:5254/api/user'
 
-## Metodo POST:
+## Metodo POST: crear usuario
 
-curl --location 'http://localhost:5254/api/user/prod' \
+curl --location 'http://localhost:5254/api/user' \
 --header 'Content-Type: application/json' \
---data '{
-  "Id": 0,
-  "Codigo": "PROD-002",
-  "Nombre": "Arroz Diana x 600g",
-  "IdTipoProducto": 2,
-  "ValorCompra": "2500.00",
-  "ValorVenta": "3200.00",
-  "Iva": 0.00,
-  "Imagen": null,
-  "IdUnidadMedidaBase": 1,
-  "IdUnidadMedidaCompra": 3,
-  "IdUnidadMedidaVenta": 1,
-  "CantEquivalente": 12.00,
-  "CodigoBarras": "7702036010015",
-  "ProveedorId": 5,
-  "CreatedAt": "2024-06-15T10:30:00",
-  "UserCreated": "admin",
-  "UserUpdated": "jperez",
-  "Estado": 1
+--data-raw '{
+  "Name": "juanperez",
+  "IdTipoDocumento": 2,
+  "Documento": "123456789",
+  "Nombres": "Juan",
+  "Apellidos": "Pérez García",
+  "Email": "juan.perez@email.com",
+  "Password": "Passw0rd123!"
 }'
+
+#Api Buena:
+
+## Metodo GET: listar usuarios
+
+curl --location 'https://localhost:44352/api/User'
+
+
+## Metodo POST: crear usuarios
+
+curl --location 'https://localhost:44352/api/user' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+  "Name": "pepitoperez",
+  "IdTipoDocumento": 2,
+  "Documento": "32165498",
+  "Nombres": "Pepito",
+  "Apellidos": "Pérez Oviedo",
+  "Email": "pepito.perez@email.com",
+  "Password": "Passw0rd123!"
+}'
+
