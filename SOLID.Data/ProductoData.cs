@@ -115,5 +115,45 @@ namespace SOLID.Data
             return result;
         }
 
+        /// <summary>
+        /// Listar los productos
+        /// </summary>
+        /// <returns></returns>
+        public Result<IEnumerable<Producto>> GetAll()
+        {
+            Result<IEnumerable<Producto>> result = new Result<IEnumerable<Producto>>();
+            try
+            {
+                using (IDbConnection conn = Connection)
+                {
+                    string sQuery = InventarioDatabaseQueries.List_Producto;
+
+                    conn.Open();
+                    result.Data = conn.Query<Producto>(sql: sQuery, commandType: CommandType.Text);
+
+
+                    if (result.Data is not null)
+                    {
+                        result.StatusCode = System.Net.HttpStatusCode.OK;
+                        result.Message = "Productos Listados exitosamente!";
+                    }
+                    else
+                    {
+                        result.StatusCode = System.Net.HttpStatusCode.OK;
+                        result.Message = "No se encontraron Productos!";
+                    }
+
+                    conn.Close();
+                }
+            }
+            catch (Exception ex)
+            {
+                result.StatusCode = System.Net.HttpStatusCode.InternalServerError;
+                result.Message = "Error desconocido al obtener los Productos";
+            }
+
+            return result;
+        }
+
     }
 }

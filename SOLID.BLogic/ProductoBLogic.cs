@@ -16,5 +16,10 @@ namespace SOLID.BLogic
         {
             return prodData.Create(prod);
         }
+
+        public Result<IEnumerable<Producto>> GetAll()
+        {
+            return prodData.GetAll();
+        }
     }
 }

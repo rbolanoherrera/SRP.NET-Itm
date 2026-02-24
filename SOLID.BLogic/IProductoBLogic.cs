@@ -5,5 +5,6 @@ namespace SOLID.BLogic
     public interface IProductoBLogic
     {
         Result<int> Create(Producto prod);
+        Result<IEnumerable<Producto>> GetAll();
     }
 }

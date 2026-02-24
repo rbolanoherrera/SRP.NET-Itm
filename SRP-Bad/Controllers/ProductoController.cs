@@ -27,5 +27,12 @@ namespace SRP_Bad.Controllers
                 return BadRequest(ex.Message);
             }
         }
+
+        [HttpGet]
+        public IActionResult Get()
+        {
+            return Ok(prodBLogic.GetAll());
+        }
+
     }
 }
